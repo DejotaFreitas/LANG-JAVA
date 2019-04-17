@@ -1,0 +1,15 @@
+package JogoPongUtil;
+
+public enum Quadrante {
+	
+	TOPO,
+	BASE,
+	ESQUERDA,
+	DIREITA,
+	ESQUERDA_TOPO,
+	DIREITA_TOPO,
+	ESQUERDA_BASE,
+	DIREITA_BASE,
+	INSIDE
+
+}

@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon Sep 19 15:55:02 GFT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0157-43cd-2793-000000b3cc68 
+on database directory D:\OneDrive\zPROGRAMACAO\Eclipse\JSE\Derby\myDerby with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+Loaded from file:/D:/OneDrive/zPROGRAMACAO/Eclipse/JSE/Derby/src/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=D:\OneDrive\zPROGRAMACAO\Eclipse\JSE\Derby
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Sep 19 15:55:06 GFT 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Sep 19 15:55:06 GFT 2016:
+Shutting down instance a816c00e-0157-43cd-2793-000000b3cc68 on database directory D:\OneDrive\zPROGRAMACAO\Eclipse\JSE\Derby\myDerby with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+----------------------------------------------------------------
